@@ -1,0 +1,26 @@
+{
+  "name": "@gastier/customelement-textclipboard",
+  "version": "0.0.1",
+  "description": "Copy text to clipboard",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spooky063/CustomElement-TextClipboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Spooky063/CustomElement-TextClipboard/issues"
+  },
+  "homepage": "https://github.com/Spooky063/CustomElement-TextClipboard#readme",
+  "files": [
+    "/index.js"
+  ],
+  "keywords": [],
+  "author": "Guillaume Astier <guillaume.astier.work@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
